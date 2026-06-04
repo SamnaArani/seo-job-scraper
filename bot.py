@@ -37,6 +37,9 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
+    "طراحی رابط کاربری",
+    " طراح سایت وردپرس",
+    "UI UX طراح",
     "UI UX Designer remote",
     "Product Designer remote",
     "WordPress Web Developer remote",
@@ -44,6 +47,9 @@ SEARCH_QUERIES = [
     "Web Design Freelance remote",
     "WordPress Expert remote",
     "User Interface Designer remote",
+    "Looking for WordPress expert",
+    "Hire UI Designer",
+    
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
