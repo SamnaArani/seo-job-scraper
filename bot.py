@@ -361,7 +361,7 @@ def main():
             errors += 1
             continue
 
-        time.sleep(1.5)   # احترام به rate limit
+        time.sleep(8)   # احترام به rate limit
 
     # حذف تکراری‌ها (یه آگهی ممکنه در چند query باشه)
     dedup_seen = set()
