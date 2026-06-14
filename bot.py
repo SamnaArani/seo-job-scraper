@@ -33,7 +33,7 @@ GSHEET_SHEET_NAME  = "Jobs"
 
 SEEN_JOBS_FILE    = Path("seen_jobs.txt")
 MAX_SEEN_JOBS     = 2000   # حداکثر تعداد ID ذخیره شده (جلوگیری از بزرگ شدن فایل)
-MAX_JOBS_PER_RUN  = 30     # حداکثر آگهی ارسالی در هر اجرا
+MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجرا
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
