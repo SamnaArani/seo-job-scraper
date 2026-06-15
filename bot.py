@@ -37,14 +37,13 @@ MAX_JOBS_PER_RUN  = 30     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    SEARCH_QUERIES = [
     "UI/UX Designer OR UX Designer remote",
     "Product Designer (SaaS OR digital OR software) remote",
     "UI/UX Designer OR Product Designer remote via linkedin",
     "WordPress Developer OR WordPress Designer remote",
     "Digital Project Manager OR Technical Project Manager remote",
     "(Product Manager OR Scrum Master) (digital OR SaaS OR software) remote",
-]]
+]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
