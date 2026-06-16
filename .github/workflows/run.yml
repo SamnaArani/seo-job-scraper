@@ -40,6 +40,7 @@ jobs:
           RAPIDAPI_KEY:        ${{ secrets.RAPIDAPI_KEY }}
           TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_TOPIC_ID:        ${{ secrets.JOB_TOPIC_ID }} 
           GSHEET_CREDENTIALS:  ${{ secrets.GSHEET_CREDENTIALS }}
           GSHEET_ID:           ${{ secrets.GSHEET_ID }}
         run: python bot.py
